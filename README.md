@@ -1,6 +1,8 @@
 # Luxon Protocol  
 **Player-Owned Gaming Infrastructure**
 
+![Luxon Protocol Cover](./assets/LuxonImage.png)
+
 Hey there 👋  
 Welcome to the **Luxon Protocol GitHub** 🛠️
 
