@@ -1,9 +1,6 @@
 # Luxon Protocol  
 **Player-Owned Gaming Infrastructure**
 
-<!-- Optional cover image -->
-<!-- ![Luxon Protocol Cover](./assets/cover.png) -->
-
 Hey there 👋  
 Welcome to the **Luxon Protocol GitHub** 🛠️
 
@@ -11,7 +8,7 @@ This is where contributors, game developers, and protocol builders come together
 
 Luxon is built with an open-source mindset and a long-term vision for decentralized, composable game infrastructure. Contributions, ideas, issues, and pull requests are always welcome 💡
 
-We’re excited to grow alongside the Web3 developer and gaming communities, see you around 🚀
+We’re excited to grow alongside the Web3 developer and gaming communities — see you around 🚀
 
 ---
 
@@ -35,11 +32,11 @@ Our demo projects showcase what’s possible when games are built on top of Luxo
 
 Luxon focuses on infrastructure primitives for blockchain games, including:
 
-- **Character systems** (identity & ownership)
-- **On-chain stat engines**
-- **Battle and progression logic**
-- **Economy hooks** (upgrade costs, sinks, burns)
-- **Composable modules** for reuse across games
+- **Character systems** (identity & ownership)  
+- **On-chain stat engines**  
+- **Battle and progression logic**  
+- **Economy hooks** (upgrade costs, sinks, burns)  
+- **Composable modules** for reuse across games  
 
 Our flagship demo, the **Character Battle Game**, demonstrates how these systems work together to power a player-owned game experience.
 
@@ -47,7 +44,8 @@ Our flagship demo, the **Character Battle Game**, demonstrates how these systems
 
 ## 🚀 Getting Started
 
-We’re actively building and iterating.  
+We’re actively building and iterating.
+
 If you’d like to explore or contribute, start with the repositories below:
 
 - **luxon-demo-game** — Character Battle Game demo built on Luxon  
@@ -100,6 +98,3 @@ We believe:
 We’re building toward that future — one module at a time.
 
 ---
-
-## 📄 License
-This project is open-source and released under the **MIT License**. 
