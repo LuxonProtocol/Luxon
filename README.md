@@ -8,7 +8,7 @@ This is where contributors, game developers, and protocol builders come together
 
 Luxon is built with an open-source mindset and a long-term vision for decentralized, composable game infrastructure. Contributions, ideas, issues, and pull requests are always welcome 💡
 
-We’re excited to grow alongside the Web3 developer and gaming communities — see you around 🚀
+We’re excited to grow alongside the Web3 developer and gaming communities, see you around 🚀
 
 ---
 
