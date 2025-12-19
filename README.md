@@ -76,7 +76,7 @@ Luxon aims to grow as a **developer-first ecosystem**.
 ## 🔗 Additional Resources
 
 - GitHub — you’re here  
-- X / Twitter — *(coming soon)*  
+- X / Twitter — https://x.com/luxonprotocol  
 - Documentation — *(coming soon)*  
 - Demo walkthrough — *(coming soon)*  
 - Community Discord — *(coming soon)*  
