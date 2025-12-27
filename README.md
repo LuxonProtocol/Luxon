@@ -50,11 +50,11 @@ We’re actively building and iterating.
 
 If you’d like to explore or contribute, start with the repositories below:
 
-- **luxon-demo-game** — Character Battle Game demo built on Luxon  
-- **luxon-character-core** — Character identity & ownership module  
-- **luxon-stats-engine** — On-chain stat and progression system  
-- **luxon-battle-engine** — Deterministic battle logic  
-- **docs** — Protocol concepts and developer notes *(coming soon)*  
+- **luxon-demo-game** : Character Battle Game demo built on Luxon  
+- **luxon-character-core** : Character identity & ownership module  
+- **luxon-stats-engine** : On-chain stat and progression system  
+- **luxon-battle-engine** : Deterministic battle logic  
+- **docs** : Protocol concepts and developer notes *(coming soon)*  
 
 Each repository contains setup instructions and usage examples.
 
